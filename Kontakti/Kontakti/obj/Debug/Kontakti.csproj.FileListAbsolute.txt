@@ -1,0 +1,19 @@
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\bin\Debug\Kontakti.exe.config
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.csprojResolveAssemblyReference.cache
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.Properties.Resources.resources
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.csproj.GenerateResource.Cache
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\bin\Debug\Kontakti.exe
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\bin\Debug\Kontakti.pdb
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.FKontakti.resources
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.exe
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\bin\Debug\Kontakti.exe.config
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\bin\Debug\Kontakti.exe
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\bin\Debug\Kontakti.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.csprojAssemblyReference.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.FKontakti.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.Properties.Resources.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.csproj.GenerateResource.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.exe
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Kontakti\Kontakti\obj\Debug\Kontakti.pdb
