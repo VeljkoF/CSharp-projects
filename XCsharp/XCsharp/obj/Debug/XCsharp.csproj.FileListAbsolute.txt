@@ -1,0 +1,13 @@
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\XCsharp\XCsharp\bin\Debug\XCsharp.exe.config
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\XCsharp\XCsharp\obj\Debug\XCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\XCsharp\XCsharp\bin\Debug\XCsharp.exe
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\XCsharp\XCsharp\bin\Debug\XCsharp.pdb
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\XCsharp\XCsharp\obj\Debug\XCsharp.exe
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\XCsharp\XCsharp\obj\Debug\XCsharp.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2015\XCsharp\XCsharp\bin\Debug\XCsharp.exe.config
+C:\Users\Veljko\Desktop\veljko projekti\2015\XCsharp\XCsharp\bin\Debug\XCsharp.exe
+C:\Users\Veljko\Desktop\veljko projekti\2015\XCsharp\XCsharp\bin\Debug\XCsharp.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2015\XCsharp\XCsharp\obj\Debug\XCsharp.csprojAssemblyReference.cache
+C:\Users\Veljko\Desktop\veljko projekti\2015\XCsharp\XCsharp\obj\Debug\XCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\veljko projekti\2015\XCsharp\XCsharp\obj\Debug\XCsharp.exe
+C:\Users\Veljko\Desktop\veljko projekti\2015\XCsharp\XCsharp\obj\Debug\XCsharp.pdb

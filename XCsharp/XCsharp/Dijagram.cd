@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="XCsharp.ProgramP" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UgAiABAAQAAEABAAAAgAAAAIAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ProgramP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XCsharp.Paket" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAAAA=</HashCode>
+      <FileName>Paket.cs</FileName>
+      <NewMemberFileName>Element.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XCsharp.Klasa">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAAAA=</HashCode>
+      <FileName>Klasa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
