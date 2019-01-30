@@ -1,0 +1,21 @@
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\bin\Debug\Softwer.exe.config
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\obj\Debug\Softwer.csprojResolveAssemblyReference.cache
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\obj\Debug\Softwer.Form1.resources
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\obj\Debug\Softwer.Properties.Resources.resources
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\obj\Debug\Softwer.csproj.GenerateResource.Cache
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\bin\Debug\Softwer.exe
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\bin\Debug\Softwer.pdb
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\obj\Debug\Softwer.exe
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\obj\Debug\Softwer.pdb
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Softwer\Softwer\obj\Debug\Softwer.Dijalog.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\bin\Debug\Softwer.exe.config
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\bin\Debug\Softwer.exe
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\bin\Debug\Softwer.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\obj\Debug\Softwer.csprojAssemblyReference.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\obj\Debug\Softwer.Dijalog.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\obj\Debug\Softwer.Form1.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\obj\Debug\Softwer.Properties.Resources.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\obj\Debug\Softwer.csproj.GenerateResource.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\obj\Debug\Softwer.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\obj\Debug\Softwer.exe
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Softwer\Softwer\obj\Debug\Softwer.pdb
