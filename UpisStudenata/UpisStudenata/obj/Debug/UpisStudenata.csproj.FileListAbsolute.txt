@@ -1,0 +1,10 @@
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\bin\Debug\UpisStudenata.exe.config
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\bin\Debug\UpisStudenata.exe
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\bin\Debug\UpisStudenata.pdb
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\obj\Debug\UpisStudenata.csprojResolveAssemblyReference.cache
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\obj\Debug\UpisStudenata.Properties.Resources.resources
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\obj\Debug\UpisStudenata.csproj.GenerateResource.Cache
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\obj\Debug\UpisStudenata.exe
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\obj\Debug\UpisStudenata.pdb
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\obj\Debug\UpisStudenata.GlavniProzor.resources
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\ispit\UpisStudenata\UpisStudenata\obj\Debug\UpisStudenata.UnosStudentaDijalog.resources
