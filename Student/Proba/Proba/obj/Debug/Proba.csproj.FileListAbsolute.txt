@@ -1,0 +1,21 @@
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\bin\Debug\Proba.exe.config
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\bin\Debug\Proba.exe
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\bin\Debug\Proba.pdb
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\obj\Debug\Proba.exe
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\obj\Debug\Proba.pdb
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\obj\Debug\Proba.Form1.resources
+C:\Users\Veljko\Documents\Visual Studio 2013\Projects\ispit\Proba\Proba\obj\Debug\Proba.Studenti.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\bin\Debug\Proba.exe.config
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\bin\Debug\Proba.exe
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\bin\Debug\Proba.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\obj\Debug\Proba.csprojAssemblyReference.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\obj\Debug\Proba.Form1.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\obj\Debug\Proba.Studenti.resources
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\obj\Debug\Proba.exe
+C:\Users\Veljko\Desktop\veljko projekti\2013\ispit\Proba\Proba\obj\Debug\Proba.pdb
