@@ -1,0 +1,13 @@
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\New folder\Geografija\Geografija\bin\Debug\Geografija.exe.config
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\New folder\Geografija\Geografija\obj\Debug\Geografija.csprojResolveAssemblyReference.cache
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\New folder\Geografija\Geografija\bin\Debug\Geografija.exe
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\New folder\Geografija\Geografija\bin\Debug\Geografija.pdb
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\New folder\Geografija\Geografija\obj\Debug\Geografija.exe
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\New folder\Geografija\Geografija\obj\Debug\Geografija.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2015\New folder\Geografija\Geografija\bin\Debug\Geografija.exe.config
+C:\Users\Veljko\Desktop\veljko projekti\2015\New folder\Geografija\Geografija\bin\Debug\Geografija.exe
+C:\Users\Veljko\Desktop\veljko projekti\2015\New folder\Geografija\Geografija\bin\Debug\Geografija.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2015\New folder\Geografija\Geografija\obj\Debug\Geografija.csprojAssemblyReference.cache
+C:\Users\Veljko\Desktop\veljko projekti\2015\New folder\Geografija\Geografija\obj\Debug\Geografija.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\veljko projekti\2015\New folder\Geografija\Geografija\obj\Debug\Geografija.exe
+C:\Users\Veljko\Desktop\veljko projekti\2015\New folder\Geografija\Geografija\obj\Debug\Geografija.pdb
