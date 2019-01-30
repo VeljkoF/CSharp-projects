@@ -1,0 +1,12 @@
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\Projekti\Projekti\bin\Debug\Projekti.exe.config
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\Projekti\Projekti\bin\Debug\Projekti.exe
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\Projekti\Projekti\bin\Debug\Projekti.pdb
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\Projekti\Projekti\obj\Debug\Projekti.exe
+C:\Users\Veljko\Documents\Visual Studio 2015\Projects\Projekti\Projekti\obj\Debug\Projekti.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2015\Projekti\Projekti\bin\Debug\Projekti.exe.config
+C:\Users\Veljko\Desktop\veljko projekti\2015\Projekti\Projekti\bin\Debug\Projekti.exe
+C:\Users\Veljko\Desktop\veljko projekti\2015\Projekti\Projekti\bin\Debug\Projekti.pdb
+C:\Users\Veljko\Desktop\veljko projekti\2015\Projekti\Projekti\obj\Debug\Projekti.csprojAssemblyReference.cache
+C:\Users\Veljko\Desktop\veljko projekti\2015\Projekti\Projekti\obj\Debug\Projekti.csproj.CoreCompileInputs.cache
+C:\Users\Veljko\Desktop\veljko projekti\2015\Projekti\Projekti\obj\Debug\Projekti.exe
+C:\Users\Veljko\Desktop\veljko projekti\2015\Projekti\Projekti\obj\Debug\Projekti.pdb

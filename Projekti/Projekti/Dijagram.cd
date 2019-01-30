@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekti.Projekat" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAEABAAAAAgEAAAAACAAIAIgAAAAAAAgQAAAAAAAAA=</HashCode>
+      <FileName>Projekat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekti.Posao" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAIAAAACAAA=</HashCode>
+      <FileName>Posao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekti.Jedinica" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jedinica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekti.Aktivnost" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAggAAAAAAAAAAAAAAAAAAAAAQABBAAAAQA=</HashCode>
+      <FileName>Aktivnost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
